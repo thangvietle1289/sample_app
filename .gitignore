@@ -17,6 +17,9 @@
 /tmp
 .idea/
 
+# Ignore Spring files.
+/spring/*.pid
+
 *.gem
 *.rbc
 /.config
