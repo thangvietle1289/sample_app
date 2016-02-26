@@ -5,6 +5,11 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.2'
 # Use bcrypt
 gem 'bcrypt',               '3.1.7'
+# Use faker
+gem 'faker',                '1.4.2'
+# Use pagination
+gem 'will_paginate',           '3.0.7'
+gem 'bootstrap-will_paginate', '0.0.10'
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3'
 # Use bootstrap
